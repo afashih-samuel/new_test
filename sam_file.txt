@@ -1,2 +1,4 @@
 I add something in Sam's file
 another line in Sam's file
+this is fun part of git
+you can change file content and manage it nicely
